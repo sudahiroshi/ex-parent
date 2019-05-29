@@ -1,0 +1,3 @@
+[submodule "ex-child"]
+	path = ex-child
+	url = https://github.com/sudahiroshi/ex-child.git
